@@ -42,3 +42,4 @@ class SecondFragment : Fragment() {
         _binding = null
     }
 }
+
