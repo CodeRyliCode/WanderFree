@@ -1,7 +1,0 @@
-query Character($search: String) {
-    person: Character(search: $search) {
-        image {
-            large
-        }
-    }
-}
